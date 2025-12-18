@@ -10,15 +10,15 @@ Your company is expanding in to new industries to diversify its portfolio. Speci
 
 ### The Data
 
-In the `data` folder is a [dataset](https://www.kaggle.com/datasets/prathamsharma123/aviation-accidents-and-incidents-ntsb-faa-waas?resource=download&select=airline_accidents.csv) from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 
 It is up to you to decide what data to use, how to deal with missing values, how to aggregate the data, and how to visualize it in an interactive dashboard.
 
 ### Key Points
 
-* **Your analysis should yield three concrete business recommendations.** The key idea behind dealing with missing values, aggregating and visualizaing data is to help your organization make data driven decisions. You will relate your findings to business intelligence by making recommendations for how the business should move forward with the new aviation opportunity.
+making recommendations for how the business should move forward with the new aviation opportunity.
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of the aviation division) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+Create a storyline your audience (the head of the aviation division) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
 
 * **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
 
@@ -56,30 +56,11 @@ We recommend that you follow this structure, although the slide titles should be
 
 You will give a live presentation of your slides and submit them in PDF format on Canvas. The slides should also be present in the GitHub repository you submit with a file name of `presentation.pdf`.
 
-The graded elements of the presentation are:
 
-* Presentation Content
-* Slide Style
-* Presentation Delivery and Answers to Questions
-
-See the [Grading](#grading) section for further explanation of these elements.
-
-For further reading on creating professional presentations, check out:
-
-* [Presentation Content](https://github.com/learn-co-curriculum/dsc-project-presentation-content)
-* [Slide Style](https://github.com/learn-co-curriculum/dsc-project-slide-design)
 
 ### Jupyter Notebook
 
-The graded elements for the Jupyter Notebook are:
 
-* Business Understanding
-* Data Understanding
-* Data Preparation
-* Data Analysis
-* Code Quality
-
-See the [Grading](#grading) section for further explanation of these elements.
 
 ### GitHub Repository
 
@@ -98,22 +79,10 @@ A professional GitHub repository has:
           * Three visualizations (the same visualizations presented in the slides and notebook)
        * Conclusion
           * Summary of conclusions including three relevant findings
-2. Commit history
-   * Progression of updates throughout the project time period, not just immediately before the deadline
-   * Clear commit messages
-   * Commits from all team members (if a group project)
-3. Organization
-   * Clear folder structure
-   * Clear names of files and folders
-   * Easily-located notebook and presentation linked in the README
-4. Notebook(s)
 
 
 You wil submit a link to the GitHub repository on Canvas.
 
-See the [Grading](#grading) section for further explanation of how the GitHub repository will be graded.
-
-For further reading on creating professional notebooks and `README`s, check out [this reading](https://github.com/learn-co-curriculum/dsc-repo-readability-v2-2).
 
 ### Interactive Dashboard
 
