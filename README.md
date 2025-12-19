@@ -1,21 +1,21 @@
 
 
 ## Content
-A notebook
-Visualizations
-A non-technical presentation
+A notebook,
+Visualizations,
+A non-technical presentation,
 GitHub repo with a README
 
  
 ### Some detail on the work involved
 
-EDA
-Cleaning – case, null values etc
-Aggregation
-Created and merged new dfs 
-Filtered and sorted values by relevant criteria
-Tableau
-Acquired insights and made recommendations
+EDA,
+Cleaning,
+Aggregation,
+Creation and merging of new dfs,
+Filtering and sorting values by relevant criteria,
+Tableau,
+Acquisition of insights and making recommendations
 
 
 
